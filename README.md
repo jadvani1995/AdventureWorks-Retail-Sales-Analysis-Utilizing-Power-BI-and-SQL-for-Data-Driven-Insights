@@ -1,4 +1,4 @@
-# SalesAnalysis_SQL_PowerBI
+# AdventureWorks Retail Sales Analysis: Utilizing Power BI and SQL for Data-Driven Insights
 
 ### Setup
 - This project requires SQL Server (SQL Express), Power BI Desktop
